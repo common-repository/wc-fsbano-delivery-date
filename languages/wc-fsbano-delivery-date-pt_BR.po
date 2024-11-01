@@ -1,0 +1,7 @@
+#: wc-delivery-date-time.php:85
+msgid "Delivery Date"
+msgstr "Data da Entrega"
+
+#: wc-delivery-date-time.php:93
+msgid "Delivery Hour"
+msgstr "Hora da Entrega"
